@@ -1,4 +1,0 @@
-com\ecommerce\dao\VehiculoDAO.class
-com\ecommerce\models\Vehiculo.class
-com\ecommerce\controllers\VehiculoController.class
-com\ecommerce\config\DBConnection.class
